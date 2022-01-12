@@ -1,6 +1,6 @@
 package chap5;
 
-public class LinkedListQuueExample {
+public class LinkedListQueueExample {
 	private Node front = null;
 	private Node rear = null;
 	private Node peek = null;
